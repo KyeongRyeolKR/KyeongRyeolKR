@@ -41,11 +41,11 @@
   
 <div align=center><h2>🙏 contact </h2></div>
 
-<a href="https://velog.io/@rlarudfuf802">
+<!-- <a href="https://velog.io/@rlarudfuf802">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://velog.io/@rlarudfuf802"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> 
+</a> -->
 
 <!-- <a href="https://instagram.com/fivepxint">
     <img 
